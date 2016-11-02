@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="share_google">انشر على Google</string>
+    <string name="share_linkedin">انشر على LinkedIn</string>
+    <string name="share_twitter">انشر على Twitter</string>
+    <string name="share_facebook">انشر على Facebook</string>
+    <string name="share_whats">انشر على WhatsApp</string>
+
+</resources>

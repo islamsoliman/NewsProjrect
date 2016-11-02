@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:orientation="vertical">
+
+
+    <com.news.isoliman.news.helpers.share.libsocialbuttons.buttons.BtnFacebook
+        android:id="@+id/btnFaceBook"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/share_facebook"
+        android:textSize="17dp" />
+
+    <com.news.isoliman.news.helpers.share.libsocialbuttons.buttons.BtnTwitter
+        android:id="@+id/btnTwitter"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/share_twitter"
+        android:textSize="17dp" />
+
+    <com.news.isoliman.news.helpers.share.libsocialbuttons.buttons.BtnLinkedin
+        android:id="@+id/btnLinkedIn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/share_linkedin"
+        android:textSize="17dp" />
+
+    <com.news.isoliman.news.helpers.share.libsocialbuttons.buttons.BtnGoogleplus
+        android:id="@+id/btnGoogle"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/share_google"
+        android:textSize="17dp" />
+
+
+    <com.news.isoliman.news.helpers.share.libsocialbuttons.buttons.BtnWhatsapp
+        android:id="@+id/btnWhats"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/share_whats"
+        android:textSize="17dp" />
+
+
+</LinearLayout>

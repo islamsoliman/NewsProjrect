@@ -1,0 +1,98 @@
+{
+   "status":"ok",
+   "source":"cnn",
+   "sortBy":"top",
+   "articles":[
+      {
+         "author":"Euan McKirdy, Hamdi Alkhshali and Mohammed Tawfeeq, CNN",
+         "title":"Iraqi PM: We will 'chop head off the snake' in Mosul",
+         "description":"The Iraqi Prime Minister struck an uncompromising stance Monday, declaring that the country's army would \"cut the head (off) the snake\" and liberate those trapped inside Mosul from ISIS' brutal rule.",
+         "url":"http://www.cnn.com/2016/11/01/middleeast/iraq-mosul-advance/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/161031133608-07-south-of-mosul-1031-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      },
+      {
+         "author":"Euan McKirdy, Hamdi Alkhshali and Mohammed Tawfeeq, CNN",
+         "title":"Iraqi PM: We will 'chop head off the snake' in Mosul",
+         "description":"The Iraqi Prime Minister struck an uncompromising stance Monday, declaring that the country's army would \"cut the head (off) the snake\" and liberate those trapped inside Mosul from ISIS' brutal rule.",
+         "url":"http://www.cnn.com/2016/11/01/middleeast/iraq-mosul-advance/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/161031133608-07-south-of-mosul-1031-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+
+      },
+      {
+         "author":"Andrew Kaczynski, CNN",
+         "title":"Trump said in 2005 that he voted for George W. Bush. In 2009, he claimed he never did",
+         "description":"In a 2009 radio interview with Don Imus uncovered by CNN's KFile, Donald Trump claimed he did not vote for President George W. Bush.",
+         "url":"http://www.cnn.com/2016/10/31/politics/trump-voting-for-bush-on-imus/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/161028152741-donald-trump-washington-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      },
+      {
+         "author":"Jim Acosta, Cassie Spodak and Theodore Schleifer, CNN",
+         "title":"Kasich votes McCain instead of Trump",
+         "description":"Ohio Gov. John Kasich voted Monday for 2008 Republican nominee John McCain instead of for 2016 Republican nominee Donald Trump.",
+         "url":"http://www.cnn.com/2016/10/31/politics/john-kasich-donald-trump-john-mccain-endorsement/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/160807091951-john-kasich-april-7-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      },
+      {
+         "author":"Daniella Diaz, CNN",
+         "title":"Obama: Clinton's ambition might be questioned if she's president",
+         "description":"President Barack Obama said Hillary Clinton's ambition might be questioned if she becomes president, during a Halloween-themed interview aired Monday.",
+         "url":"http://www.cnn.com/2016/10/31/politics/obama-samantha-bee-full-frontal-interview/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/161028194802-obama-samantha-bee-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      },
+      {
+         "author":"Andrew Kaczynski, CNN",
+         "title":"Libertarian nominee Gary Johnson: Clinton presidency 'may well end up in impeachment'",
+         "description":"Libertarian presidential nominee Gary Johnson says he thinks Hillary Clinton could face impeachment over the continued FBI investigation into her private email server if she is elected president.",
+         "url":"http://www.cnn.com/2016/10/31/politics/gary-johnson-clinton-impeachment/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/160908132559-gary-johnson-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      },
+      {
+         "author":"Pamela Brown, Evan Perez and Eric Bradner, CNN",
+         "title":"FBI unlikely to wrap Clinton email review prior to election",
+         "description":"FBI officials are unlikely to finish their review of new emails potentially related to the investigation into Hillary Clinton's private server before the November 8 election.",
+         "url":"http://www.cnn.com/2016/10/31/politics/clinton-email-fbi-investigation/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/160707134848-james-comey-july-7-2016-super-tease.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      },
+      {
+         "author":"Eric Bradner, CNN",
+         "title":"New polls show tight Clinton-Trump race nationally, battlegrounds",
+         "description":"Hillary Clinton holds a slim lead over Donald Trump, a new national poll shows.",
+         "url":"http://www.cnn.com/2016/10/30/politics/poll-clinton-trump-florida-north-carolina/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/160803163840-hillary-clinton-donald-trump-faceoff-composite-super-tease.jpg",
+         "publishedAt":"2016-10-31",
+         "tag":"1"
+      },
+      {
+         "author":null,
+         "title":"Audio of Trump praising the Clintons and Democrats - CNN Video",
+         "description":"Listen to the nice words Trump had for the Clintons and for Democrats.",
+         "url":"http://www.cnn.com/videos/politics/2016/10/31/donald-trump-nice-to-hillary-clinton-and-democrats-orig-cm.cnn",
+         "urlToImage":"http://i2.cdn.turner.com/cnnnext/dam/assets/161031175702-donald-trump-nice-to-hillary-clinton-and-democrats-orig-cm-00000000-super-tease.jpg",
+         "publishedAt":"2016-10-31",
+         "tag":"1"
+      },
+      {
+         "author":"Jeanne Sahadi",
+         "title":"The latest theory on how Trump avoided paying taxes on nearly $1 billion",
+         "description":"Donald Trump used an aggressive tax strategy to avoid paying taxes on hundreds of millions of dollars in income in the 1990s, according to a new report in the New York Times.",
+         "url":"http://money.cnn.com/2016/11/01/news/trump-tax-strategy-theory/index.html",
+         "urlToImage":"http://i2.cdn.turner.com/money/dam/assets/161012224938-trump-2-780x439.jpg",
+         "publishedAt":"2016-11-01",
+         "tag":"1"
+      }
+   ]
+}
